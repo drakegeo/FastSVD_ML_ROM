@@ -1,2 +1,2 @@
 # FFNN 
-print('ok')
+
